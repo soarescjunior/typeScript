@@ -1,0 +1,1 @@
+Curso de TypeScript: Aplicando na pratica.
